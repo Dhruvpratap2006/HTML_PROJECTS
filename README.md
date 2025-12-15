@@ -28,12 +28,6 @@ A basic personal portfolio webpage that includes:
 * Build strong fundamentals before moving to CSS and JavaScript
 * Track my learning journey on GitHub
 
-## 🚀 Future Plans
-
-* Improve structure using semantic HTML (`header`, `section`, `footer`)
-* Add forms and tables
-* Style the portfolio using CSS
-* Add interactivity using JavaScript
 
 ## 👤 Author
 
