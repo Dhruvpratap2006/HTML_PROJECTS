@@ -1,38 +1,90 @@
-# HTML Projects
+📌 Portfolio Website (HTML)
 
-This repository contains my beginner-level HTML projects.
+This is a simple personal portfolio website created using HTML only.
+It shows my basic details such as education, skills, hobbies, and contact information.
 
-## 📌 About
+👨‍💻 About Me
 
-I created this repository while learning **HTML fundamentals**. It showcases my progress and understanding of basic web structure using only HTML (no CSS or JavaScript).
+Name: Dhruv Pratap Singh
+Role: Aspiring Developer / Coder
+This portfolio is made to practice HTML structure and basic web page design.
 
-## 📁 Projects Included
+🛠️ Technologies Used
 
-### 1️⃣ Simple HTML Portfolio
+HTML5
 
-A basic personal portfolio webpage that includes:
-
-* Name and profile image
-* Education details
-* Skills
-* Hobbies
-* Contact information (Email using `mailto`, LinkedIn)
-
-**Technologies used:**
-
-* HTML5
-
-## 🎯 Purpose
-
-* Practice core HTML concepts
-* Build strong fundamentals before moving to CSS and JavaScript
-* Track my learning journey on GitHub
+📂 Project Structure
+/portfolio
+│── index.html
+│── README.md
 
 
-## 👤 Author
+index.html → Main portfolio page
 
-**Dhruv Pratap Singh**
+README.md → Project documentation
 
----
+📄 Sections Included
 
-⭐ This repository will be updated as I continue learning web development.
+Header
+
+Name
+
+Short intro
+
+Profile image
+
+Education
+
+10th (ICSE)
+
+12th (ICSE)
+
+BTech (Data Science)
+
+Skills
+
+Java, DSA, Python
+
+HTML, CSS, JavaScript, Bootstrap
+
+ReactJS
+
+NodeJS, MySQL, MongoDB
+
+Hobbies
+
+Reading books
+
+Gym
+
+Playing guitar
+
+Swimming
+
+Contact
+
+Email
+
+Phone number
+
+LinkedIn profile
+
+🚀 How to Run the Project
+
+Download or clone the repository
+
+Open index.html in any web browser
+
+That’s it — no setup required ✅
+
+🎯 Purpose of This Project
+
+Practice HTML tags and structure
+
+Create a basic personal portfolio
+
+Beginner-friendly front-end project
+
+❤️ Author
+
+Made with ❤️ by Dhruv Pratap Singh
